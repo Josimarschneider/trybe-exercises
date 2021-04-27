@@ -6,12 +6,17 @@ let info = {
   console.log('exercício 1');
   console.log('Bem-vinda, ' + info.personagem);
 
-  console.log('exercício 2');
+  console.log('\nexercício 2');
   info.recorrente = 'sim';
   //info.['recorrente] = 'sim'; // outro jeito de fazer]
   console.log(info);
 
-  console.log('exercício 3');
+  console.log('\nexercício 3 ');
   for (let key in info) {
       console.log(key);
+  }
+
+  console.log('\nexercício 4');
+  for (let key in info) {
+      console.log(info[key]);
   }

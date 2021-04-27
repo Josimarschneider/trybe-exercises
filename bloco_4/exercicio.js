@@ -22,7 +22,7 @@ for (let index =0; index < numbers.length; index ++) {
       console.log('valor maior que 20');
   } else {
       console.log('valor menor ou igual a 20');
-  }*/
+  }
   //exercicio05
 
   for (let index =0; index < numbers.length; index ++) {
@@ -30,7 +30,9 @@ for (let index =0; index < numbers.length; index ++) {
         aux = numbers[index];
     }  
   }
-  console.log(aux);
-  
+  console.log(aux);*/
+    //exercicio05]6
+
+//não continuei pq era tudo igual e fácil
 
 

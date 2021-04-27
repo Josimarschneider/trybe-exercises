@@ -1,0 +1,13 @@
+  .navegação ul{
+    padding: 5px 30px;  
+    background-color: cadetblue;
+}
+  .navegação li{
+    margin-right: 50px;
+    display: inline;
+}
+  .navegação a{
+    color: white;
+    text-decoration: none;
+
+}
